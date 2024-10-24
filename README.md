@@ -1,4 +1,6 @@
 # DF_Mapper
+Before to start, install the required python modules by running the following command:
+pip install -r requirements.txt
 
 From DF or CCX export the configuration and get the following files:
   To get the Protected Objects configuration, extract protected_object_configuration.json
